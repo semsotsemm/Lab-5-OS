@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41765909-0595-46C2-B47F-AFB762A2CE37}|Lab-05c\\Lab-05c.vcxproj|D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05c\\Lab-05c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41765909-0595-46C2-B47F-AFB762A2CE37}|Lab-05c\\Lab-05c.vcxproj|solutionrelative:Lab-05c\\Lab-05c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024A714-2387-4211-9ABD-4F82539CF41B}|Lab-05b\\Lab-05b.vcxproj|D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05b\\Lab-05b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3024A714-2387-4211-9ABD-4F82539CF41B}|Lab-05b\\Lab-05b.vcxproj|solutionrelative:Lab-05b\\Lab-05b.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43737A2-13D1-4C51-8DC5-6CBE0760C11F}|Lab-05x\\Lab-05x.vcxproj|D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05x\\Lab-05x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F43737A2-13D1-4C51-8DC5-6CBE0760C11F}|Lab-05x\\Lab-05x.vcxproj|solutionrelative:Lab-05x\\Lab-05x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B0BD3A-B5A8-4BB4-9FE1-67E7316747E2}|Lab-05a\\Lab-05a.vcxproj|D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05a\\Lab-05a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1B0BD3A-B5A8-4BB4-9FE1-67E7316747E2}|Lab-05a\\Lab-05a.vcxproj|solutionrelative:Lab-05a\\Lab-05a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-05c.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05c\\Lab-05c.cpp",
+              "RelativeDocumentMoniker": "Lab-05c\\Lab-05c.cpp",
+              "ToolTip": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05c\\Lab-05c.cpp",
+              "RelativeToolTip": "Lab-05c\\Lab-05c.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T06:10:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-05b.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05b\\Lab-05b.cpp",
+              "RelativeDocumentMoniker": "Lab-05b\\Lab-05b.cpp",
+              "ToolTip": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05b\\Lab-05b.cpp",
+              "RelativeToolTip": "Lab-05b\\Lab-05b.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T06:10:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-05x.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05x\\Lab-05x.cpp",
+              "RelativeDocumentMoniker": "Lab-05x\\Lab-05x.cpp",
+              "ToolTip": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05x\\Lab-05x.cpp",
+              "RelativeToolTip": "Lab-05x\\Lab-05x.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T06:09:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab-05a.cpp",
+              "DocumentMoniker": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05a\\Lab-05a.cpp",
+              "RelativeDocumentMoniker": "Lab-05a\\Lab-05a.cpp",
+              "ToolTip": "D:\\WorkSpace\\TERM-5\\OS\\Laboratory_05\\Lab_05\\Linux\\Lab-05\\Lab-05a\\Lab-05a.cpp",
+              "RelativeToolTip": "Lab-05a\\Lab-05a.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T20:47:00.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
